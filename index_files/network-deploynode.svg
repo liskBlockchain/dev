@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>a-icon-DeployNode/white/48x48</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="a-icon-DeployNode/white/48x48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(3.000000, 3.000000)">
+            <g id="Group-10">
+                <g id="Group-3">
+                    <polygon id="Clip-2" points="0.00048125 0 42 0 42 41.99965 0.00048125 41.99965"></polygon>
+                    <path d="M35.8490125,6.1509 C44.0503875,14.352275 44.0503875,27.6479 35.8490125,35.849275 C27.6485125,44.049775 14.3520125,44.049775 6.1515125,35.849275 C-2.0498625,27.6479 -2.0498625,14.352275 6.1515125,6.1509 C14.3520125,-2.050475 27.6485125,-2.050475 35.8490125,6.1509" id="Fill-1" fill="#DFE6F2"></path>
+                </g>
+                <path d="M27.4920625,14.71715 C31.0778125,18.3029 31.0778125,24.1164 27.4920625,27.701275 C23.9063125,31.287025 18.0936875,31.287025 14.5079375,27.701275 C10.9221875,24.1164 10.9221875,18.3029 14.5079375,14.71715 C18.0936875,11.1314 23.9063125,11.1314 27.4920625,14.71715 Z" id="Stroke-4" stroke="#4070F4" stroke-width="1.5"></path>
+                <polygon id="Clip-7" points="0 42 42 42 42 0 0 0"></polygon>
+                <polygon id="Fill-6" fill="#DFE6F2" points="19.131875 18.120375 23.055375 18.120375 23.055375 10.507875 19.131875 10.507875"></polygon>
+                <path d="M20.99965,10.2939375 L21.093275,18.4699375" id="Stroke-8" stroke="#4070F4" stroke-width="1.5"></path>
+                <path d="M38.62355,20.999825 C38.62355,30.733325 30.7328,38.624075 20.9993,38.624075 C11.266675,38.624075 3.3768,30.733325 3.3768,20.999825 C3.3768,11.266325 11.266675,3.37645 20.9993,3.37645 C30.7328,3.37645 38.62355,11.266325 38.62355,20.999825 Z" id="Stroke-9" stroke="#FFFFFF" stroke-width="1.5"></path>
+            </g>
+        </g>
+        <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+    </g>
+</svg>
